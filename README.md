@@ -7,7 +7,7 @@ Certainly! Here's a more detailed explanation of your project flow:
 Client Data in CSV format:
 
 You, as the client, obtained data in CSV format.
-Amazon S3 for Data Storage:
+<!-- Amazon S3 for Data Storage: -->
 
 <!-- Created an Amazon S3 bucket to store the data for easy and scalable access in the future.
 Organized the data into sub-folders within the S3 bucket, each named after the respective datasets (e.g., hh_demographic, campaign_desc, etc.).
